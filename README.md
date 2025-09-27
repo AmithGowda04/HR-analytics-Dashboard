@@ -47,7 +47,8 @@ Key business questions addressed include:
 
 ### [1] Dashboard Overview
 
-<img width="1466" height="829" alt="image" src="https://github.com/user-attachments/assets/52b5a70c-b554-4a3c-bc36-b87d6bb8d0f1" />
+<img width="1974" height="1061" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/a5146465-2057-4124-b571-6c4b99423b79" />
+
 
 
 ### [2] Attrition by Department
