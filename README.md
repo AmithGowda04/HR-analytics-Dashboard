@@ -47,27 +47,25 @@ Key business questions addressed include:
 
 ### [1] Dashboard Overview
 
-![Dashboard Overview]<img width="1466" height="829" alt="image" src="https://github.com/user-attachments/assets/52b5a70c-b554-4a3c-bc36-b87d6bb8d0f1" />
+<img width="1466" height="829" alt="image" src="https://github.com/user-attachments/assets/52b5a70c-b554-4a3c-bc36-b87d6bb8d0f1" />
 
 
 ### [2] Attrition by Department
 
-![Attrition by Department]<img width="433" height="354" alt="image" src="https://github.com/user-attachments/assets/eed7e9be-cf11-40bd-a99f-63f05e074998" />
+<img width="433" height="354" alt="image" src="https://github.com/user-attachments/assets/eed7e9be-cf11-40bd-a99f-63f05e074998" />
 
 
 ### [3] Employee By Age Group
 
-![Age Group]<img width="523" height="341" alt="image" src="https://github.com/user-attachments/assets/fc1e05d9-ad29-4a09-96fe-d12f62f9e1d5" />
+<img width="523" height="341" alt="image" src="https://github.com/user-attachments/assets/fc1e05d9-ad29-4a09-96fe-d12f62f9e1d5" />
 
 
 ### [4] Attrition Rate by Different Age Groups
 
-![Workforce Demographics]<img width="1045" height="248" alt="image" src="https://github.com/user-attachments/assets/8e35bc86-d2ee-4c2c-9243-255411bdc20e" />
+<img width="1045" height="248" alt="image" src="https://github.com/user-attachments/assets/8e35bc86-d2ee-4c2c-9243-255411bdc20e" />
 
 
-*(Replace the placeholder links with actual Tableau screenshots when ready.)*
 
----
 
 ## Insights
 
